@@ -16,7 +16,7 @@
 - Yandex DataLens
 
 ## 🔗 Ссылки
-- [Дашборд в Yandex DataLens](https://datalens.ru/ab9gpb4vu4ogu)
+- [Дашборд в Yandex DataLens](https://datalens.yandex/ab9gpb4vu4ogu)
 
 ## 📈 Основные выводы
 - На мобильных устройствах чаще ищут поздравления и развлечения
